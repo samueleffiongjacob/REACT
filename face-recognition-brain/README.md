@@ -148,4 +148,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 [view and interactive application to add to your project](https://vincentgarreau.com/particles.js/)
 
-[face dectection api](https://github.com/aneagoie/face-recognition-brain)
+[face dectection api](https://github.com/samueleffiongjacob/JAVASCRIPT_BACKEND_node/tree/main/backend_face%20dection)
